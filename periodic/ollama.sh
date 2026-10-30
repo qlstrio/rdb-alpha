@@ -1,0 +1,1 @@
+launchctl setenv OLLAMA_KEEP_ALIVE "-1"
